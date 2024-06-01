@@ -193,7 +193,7 @@ Publicize assemblies format also works same as Game assembly references
 
 Example [.csproj](https://github.com/Killers0992/Agents/blob/b44e3574b4494b3b1fd96e59f95386976b9124a1/Agents/Agents.csproj#L17)
 
-```csproj
+```yaml
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
