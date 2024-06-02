@@ -1,22 +1,5 @@
 # How to publish plugin on scpslplugins.killers.dev website
 
-<details>
-  <summary>Click me</summary>
-
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
-
 1. Your plugin needs to be on github repository which is publicly visbile.
 2. Go to your plugin repository and go to **Actions** tab
 ![image](https://github.com/Killers0992/SCPSL.Plugins.Guide/assets/38152961/a50ca3bf-39b4-42bf-922d-d8425b6d8856)
